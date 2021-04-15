@@ -3,26 +3,26 @@
 #### Step 1: Google Dorking
 
 
-- Using Google, can you identify who the Chief Executive Officer of Altoro Mutual is:
+- Using Google, can you identify who the Chief Executive Officer of Altoro Mutual is: Karl Fitzgerald
 
-- How can this information be helpful to an attacker:
+- How can this information be helpful to an attacker: It can help someone ith targeted attacks such as Whaling, or even in narrowing down usernames wien attempting to gain access to systems.
 
 
 #### Step 2: DNS and Domain Discovery
 
 Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the following questions based on the results:
 
-  1. Where is the company located: 
+  1. Where is the company located: 9725 Datapoint Drive, Suite 100, San Antonio, TX, 78229
 
-  2. What is the NetRange IP address:
+  2. What is the NetRange IP address: 65.61.137.64 - 65.61.137.127
 
-  3. What is the company they use to store their infrastructure:
+  3. What is the company they use to store their infrastructure: Rackspace Backbone Engineering
 
-  4. What is the IP address of the DNS server:
+  4. What is the IP address of the DNS server: 65.61.137.117
 
 #### Step 3: Shodan
 
-- What open ports and running services did Shodan find:
+- What open ports and running services did Shodan find: 
 
 #### Step 4: Recon-ng
 
