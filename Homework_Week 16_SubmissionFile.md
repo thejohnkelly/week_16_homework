@@ -3,7 +3,9 @@
 #### Step 1: Google Dorking
 
 - Using Google, can you identify who the Chief Executive Officer of Altoro Mutual is: 
-      - Karl Fitzgerald
+      ```
+      Karl Fitzgerald
+      ```
 
 - How can this information be helpful to an attacker: 
       It can help someone ith targeted attacks such as Whaling, or even in narrowing down usernames wien attempting to gain access to systems.
