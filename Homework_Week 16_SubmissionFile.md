@@ -62,13 +62,13 @@ Your client has asked that you help identify any vulnerabilities with their file
 
 - Once you have identified this vulnerability, answer the following questions for your client:
   1. What is the vulnerability: 
-        Anonymous users have read/write privileges
+     - Anonymous users have read/write privileges
 
   2. Why is it dangerous:
-        If malicous actors gain access to the system they can take advantage of the read/write privileges using the open ports to insert worms and execute ransomware attacks.
+     - If malicous actors gain access to the system they can take advantage of the read/write privileges using the open ports to insert worms and execute ransomware attacks.
 
   3. What mitigation strategies can you recommendations for the client to protect their server:
-        Restrict read/write proviliges only to registered users who require such privileges, use password protection to ristrict use system users who need access, and filter ports to restrict ourside access.
+     - Restrict read/write proviliges only to registered users who require such privileges, use password protection to ristrict use system users who need access, and filter ports to restrict ourside access.
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.  
