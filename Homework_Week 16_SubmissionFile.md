@@ -3,7 +3,7 @@
 #### Step 1: Google Dorking
 
 - Using Google, can you identify who the Chief Executive Officer of Altoro Mutual is: 
-      Karl Fitzgerald
+      - Karl Fitzgerald
 
 - How can this information be helpful to an attacker: 
       It can help someone ith targeted attacks such as Whaling, or even in narrowing down usernames wien attempting to gain access to systems.
@@ -34,8 +34,8 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 #### Step 4: Recon-ng
 
 - Install the Recon module `xssed`. 
-      `marketplace install xssed`
-      `modules load xssed`
+      - `marketplace install xssed`
+      - `modules load xssed`
 
 - Set the source to `demo.testfire.net`. 
       `options set SOURCE demo.testfire.net`
