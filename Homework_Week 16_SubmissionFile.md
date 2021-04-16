@@ -45,7 +45,7 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 
 Is Altoro Mutual vulnerable to XSS: 
   - Yes!
-[Screen Shot 2021-04-15 at 8 30 54 PM](https://user-images.githubusercontent.com/33046751/114958858-7e047080-9e29-11eb-81f5-f1ff570f2f09.png)
+![Screen Shot 2021-04-15 at 8 30 54 PM](https://user-images.githubusercontent.com/33046751/114958858-7e047080-9e29-11eb-81f5-f1ff570f2f09.png)
 
 ### Step 5: Zenmap
 
@@ -56,7 +56,7 @@ Your client has asked that you help identify any vulnerabilities with their file
  
 - Bonus command to output results into a new text file named `zenmapscan.txt`: 
   - `nmap -sV -sC -oN zenmapscan.txt 192.168.0.10`
-  ![Screen Shot 2021-04-15 at 9 46 40 PM](https://user-images.githubusercontent.com/33046751/114964362-2f100880-9e34-11eb-8ea5-b2f21eef95f0.png)
+![Screen Shot 2021-04-15 at 9 46 40 PM](https://user-images.githubusercontent.com/33046751/114964362-2f100880-9e34-11eb-8ea5-b2f21eef95f0.png)
 
 - Zenmap vulnerability script command:
   - `nmap --script smb-enum-shares 192.168.0.10`
